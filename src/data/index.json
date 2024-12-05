@@ -1,0 +1,103 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/Android.jpg",
+      "title": "Android Application Development",
+      "description": "Application development for Smart mobile POS machines, specializing in secure payment solutions, user-friendly interfaces, and seamless integration with payment systems and hardware."
+    },
+    {
+      "id": "2",
+      "src": "./img/EthSwitch.jpg",
+      "title": "Application Integration with Payment Switch ",
+      "description": "Expertise in configuring, managing, and optimizing Smart Vista, ACI, and S2M payment switch solutions with a Knowledge of ISO 8583, ISO 20022, and other payment messaging standards."
+    },
+    {
+      "id": "3",
+      "src": "./img/programing.jpg",
+      "title": "Programming & Scripting",
+      "description": "Proficiency in programming languages like Java, C++, Python, or SQL for custom development and automation. Scripting knowledge like Shell, Perl for deployment and maintenance tasks."
+    },
+    {
+      "id": "4",
+      "src": "./img/8427109.png",
+      "title": "Database Management",
+      "description": "Skills in managing relational databases (e.g., Oracle, MySQL, PostgreSQL) for data storage and transaction logs.Proficiency in database query optimization and performance tuning."
+    },
+    {
+      "id": "5",
+      "src": "./img/security.png",
+      "title": "Security and Compliance",
+      "description": "Familiar  in payment security, including compliance with PCI DSS, EMV standards, and encryption protocols like SSL/TLS. I'm also experienced with HSMs for secure cryptographic key management, ensuring robust and reliable payment system security."
+    },
+    {
+      "id": "6",
+      "src": "./img/problem-solving.png",
+      "title": "Analytical & Problem-Solving Skills",
+      "description": "Skilled in monitoring transaction flows, troubleshooting failures, analyzing logs, and debugging payment systems. Proficient in optimizing processing speeds, reducing latency, and implementing fraud detection mechanisms to monitor suspicious activities."
+    },
+    {
+      "id": "7",
+      "src": "./img/softskill.jpg",
+      "title": "Soft Skills",
+      "description": "Strong communicator with cross-functional teams, capable of explaining technical issues to non-technical stakeholders. Experienced in team collaboration and project management, including coordinating upgrades, migrations, and deployments.  "
+    },
+    {
+      "id": "8",
+      "src": "./img/bankig and finance.png",
+      "title": "Bankig And Finance",
+      "description": "understanding of financial industry regulations and workflows, ensuring compliance with standards and best practices. Experienced in implementing digital wallets, tokenization, and mobile payment solutions to enhance secure and efficient payment experiences."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/smart pos.jpg",
+      "title": "Smart POS Applications",
+      "description": "I have successfully led developer teams in designing and delivering Android applications for prominent banks, including CBE, Siinqee, Abay, Siket, and Dashen Bank of Ethiopia. In addition to providing leadership, I actively contributed to the development process, ensuring the delivery of secure, reliable, and high-performance solutions customized to align with each bank’s operational and regulatory requirements.",
+      "link": ""
+    },
+    {
+      "id": "2",
+      "src": "./img/TOMS.jpg",
+      "title": "Implementation Of Terminal Managment Monitering Tool",
+      "description": "I have implemented a Terminal Management Tool for several banks, enabling centralized tracking and management of terminals. This solution streamlined operations, enhanced monitoring capabilities, and improved efficiency across the banks' networks.",
+      "link": "https://www.newlandnpt.com/cloud/toms/",
+      "link1":"TOMS"
+    },
+    {
+      "id": "3",
+      "src": "./img/web-design.jpg",
+      "title": "Web Development",
+      "description": "I have developed web applications for personal projects and companies, using technologies like HTML, CSS, JavaScript (React/Angular), and backend tools like Node.js, Python (Django/Flask), and PHP (Laravel). My focus is on creating scalable, secure, and user-friendly solutions tailored to diverse needs.",
+      "link": "http://motiportal.com.et/",
+      "link1":"Check one of the web App"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/zulfitestimoni.png",
+      "description": "He is a skilled web developer who consistently delivers high-quality, user-friendly applications. Their expertise and reliability make them a fantastic partner to work with!",
+      "author_name": "Zulfiqar Ali",
+      "author_designation": "Division Manager"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/hayat_testimonial.png",
+      "description": "He has shown exceptional leadership in developing our smart POS software, driving innovation, and inspiring the team to deliver outstanding results.",
+      "author_name": "Hayat abdullah",
+      "author_designation": "Higher Division Manager"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/amirtestimoni.png",
+      "description": "He is incredibly dedicated and highly skilled, bringing innovation, collaboration, and excellence to every project they lead.",
+      "author_name": "Amir Abdulrahman",
+      "author_designation": "Section Manager"
+    }
+  ]
+}
