@@ -9,8 +9,7 @@ export default function HeroSection() {
              Payment Specialist
           </h1>
           <p className="hero--section-description">
-          Experienced Section Manager specializing in Smart POS Android application development and TOMS monitoring tools, 
-          with a proven track record in designing and implementing secure payment systems, 
+          Division Manager with extensive experience in leading teams and managing high-impact fintech projects, ensuring operational excellence and delivering secure, innovative financial solutions., 
           
             <br /> and providing expert consultation as a Payment Specialist.
           </p>
