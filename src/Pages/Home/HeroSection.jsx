@@ -9,7 +9,7 @@ export default function HeroSection() {
              Payment Specialist
           </h1>
           <p className="hero--section-description">
-          Division Manager with extensive experience in leading teams and managing high-impact fintech projects, ensuring operational excellence and delivering secure, innovative financial solutions., 
+          Division Manager at Moti Engineering PLC with extensive experience in leading teams and managing high-impact fintech projects, ensuring operational excellence and delivering secure, innovative financial solutions. 
           
             <br /> and providing expert consultation as a Payment Specialist.
           </p>
